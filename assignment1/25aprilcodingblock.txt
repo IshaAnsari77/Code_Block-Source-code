@@ -1,0 +1,5 @@
+25-04-2025
+ARRAY
+a continous data allocation where it has same data type.
+int mayankdata[9];
+this will make constarints for array
